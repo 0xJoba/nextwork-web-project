@@ -13,3 +13,6 @@ target/
 dist/
 node_modules/
 
+.vscode-server/
+.m2/
+apache-maven-*.tar.gz
