@@ -1,0 +1,15 @@
+# Ignore VS Code remote server files
+.vscode-server/
+
+# Ignore local VS Code project settings
+.vscode/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore build outputs (adjust for your project if needed)
+target/
+dist/
+node_modules/
+
