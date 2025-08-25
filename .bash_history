@@ -1,0 +1,2 @@
+mvn -v
+java -version
